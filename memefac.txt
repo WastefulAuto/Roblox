@@ -1605,7 +1605,7 @@
         "sizeX": 40,
         "sizeY": 40,
         "startX": 359,
-        "startY": 1,
+        "startY": 41,
         "bg": null,
         "ox1": 0,
         "ox2": 0,
