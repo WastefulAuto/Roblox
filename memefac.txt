@@ -1604,8 +1604,8 @@
     "dimensions": {
         "sizeX": 40,
         "sizeY": 40,
-        "startX": 169,
-        "startY": 169,
+        "startX": 359,
+        "startY": 1,
         "bg": null,
         "ox1": 0,
         "ox2": 0,
