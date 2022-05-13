@@ -13,8 +13,8 @@
     "dimensions": {
         "sizeX": 3,
         "sizeY": 3,
-        "startX": 150,
-        "startY": 125,
+        "startX": 200,
+        "startY": 150,
         "bg": null,
         "ox1": 0,
         "ox2": 0,
